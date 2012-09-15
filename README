@@ -1,0 +1,3 @@
+Application which searches for webpages in preprocess index for a given keyword and returns best results 
+based on a rank algorithm and later I had done some optimization using Beautiful soup (Parse webpages)
+and made search engine polite using robotexclusionrulesparser to respect robots.txt.
